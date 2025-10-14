@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="F:/The Bads Of bollywod/pic.png" alt="My Image" />
+  <img height="150" src="file:///F:/The%20Bads%20Of%20bollywod/img.jpg" <h1 align="left">Hey 👋 What's up?</h1> />
 </div>
 
 
@@ -14,7 +14,7 @@
 </div>
 
 
-<h1 align="left">Hey 👋 What's up?</h1>
+
 
 ###
 
