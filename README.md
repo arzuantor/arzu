@@ -1,10 +1,11 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="F:/The Bads Of bollywod/pic.png" alt="My Image" />
 </div>
-![Uploading Gemini_Generated_Image_gr0pbagr0pbagr0p.png…]()
+
 
 ###
 
+<img width="1024" height="1024" alt="pic" src="https://github.com/user-attachments/assets/aa102105-6f06-44a2-ba9e-a32c93c50649" />
 
 ###
 
