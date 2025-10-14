@@ -1,18 +1,13 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <div align="center">
-  <img height="150" src="file:///F:/The%20Bads%20Of%20bollywod/img.jpg" />
+  <img height="150" src="file:///F:/The%20Bads%20Of%20bollywod/img.jpg" alt="My Image" />
 </div>
 
 
 ###
 
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
 
 
 
