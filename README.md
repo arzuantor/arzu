@@ -1,6 +1,7 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+![Uploading Gemini_Generated_Image_gr0pbagr0pbagr0p.png…]()
 
 ###
 
@@ -40,8 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter notebook logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/CMD_icon.png" height="40" alt="cmd logo" />
   <img width="12" />
   </div>
 
