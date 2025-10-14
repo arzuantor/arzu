@@ -5,7 +5,6 @@
 
 ###
 
-<img width="1024" height="1024" alt="pic" src="https://github.com/user-attachments/assets/aa102105-6f06-44a2-ba9e-a32c93c50649" />
 
 ###
 
