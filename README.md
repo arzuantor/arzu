@@ -29,7 +29,29 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Machine Learning with Python<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">👋 About Me
+
+I’m a Diploma Engineer passionate about technology, coding, and continuous learning.
+Currently, I’m focusing on Machine Learning with Python, exploring how data and algorithms can solve real-world problems.
+
+💡 What I’m Learning:
+
+Python for Data Science & Machine Learning
+
+NumPy, Pandas, Matplotlib, and Scikit-learn
+
+Building and training basic ML models
+
+⚙️ What I Enjoy:
+
+Writing clean, efficient code
+
+Experimenting with data and automation
+
+Learning new technologies and improving every day
+
+📫 Let’s Connect:
+I’m always open to collaboration, learning, and sharing knowledge!</p>
 
 ###
 
