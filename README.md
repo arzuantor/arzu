@@ -1,4 +1,8 @@
+<div align="center">
 <h1 align="left">Hey 👋 What's up?</h1>
+</div>
+
+
 
 
 
@@ -16,8 +20,6 @@
 
 
 
-###
-<h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">My name is Arzu Antor and I'm a Student from Manikganj</p>
 
