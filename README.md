@@ -1,4 +1,4 @@
-<div class="markdown-heading" <h1 align="left">Hey 👋 What's up?</h1>>…</div>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 
 
