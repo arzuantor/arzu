@@ -31,31 +31,16 @@
 
 <p align="left">👋 About Me
 
-I’m a Diploma Engineer passionate about technology, coding, and continuous learning.
-Currently, I’m focusing on Machine Learning with Python, exploring how data and algorithms can solve real-world problems.
+👋 About Me
 
-💡 What I’m Learning:
-
-Python for Data Science & Machine Learning
-
-NumPy, Pandas, Matplotlib, and Scikit-learn
-
-Building and training basic ML models
-
-⚙️ What I Enjoy:
-
-Writing clean, efficient code
-
-Experimenting with data and automation
-
-Learning new technologies and improving every day
-
-📫 Let’s Connect:
-I’m always open to collaboration, learning, and sharing knowledge!</p>
+I’m a Diploma Engineer currently learning Machine Learning with Python.
+Passionate about data-driven solutions, I focus on writing clean, efficient code and exploring modern AI technologies.
+Always eager to learn, build, and grow in the tech field.</p>
 
 ###
 
-<h2 align="left">I used Python Langague and tools</h2>
+
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
